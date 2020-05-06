@@ -1,0 +1,165 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+#title {
+    background-color: #4cbbb9;
+    color: whitesmoke;
+}
+
+
+h1 {
+    font-weight: 625;
+    font-size: 2.75rem;
+    line-height: 1.25;
+}
+
+h2 {
+    font-weight: bolder;
+    font-size: 2.5rem;
+    line-height: 1.5;
+}
+
+h3 {
+    font-weight: bolder;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+h4 {
+    font-weight: 700;
+}
+
+p {
+    color: grey;
+}
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+/* Navigation Bar */
+
+.navbar {
+    padding: 0 0 4.5rem 0;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.navbar-item {
+    padding: 0 20px;
+}
+
+.nav-link {
+    font-size: 1.25rem;
+    font-family: 'Montserrat-light', sans-serif;
+}
+
+/* Download Buttons */
+
+.download-button {
+    margin: 7% 3% 7% 0;
+}
+
+.title-img {
+    width: 85%;
+}
+
+/* Features */
+
+#features {
+    padding: 0 15% 9% 15%;
+}
+
+.feature-box {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin: 12% 0 0 0;
+}
+
+.feature-icon {
+    font-size: 70px;
+    margin-bottom: 20px;
+    color: #77d8d8;
+}
+
+.feature-icon:hover {
+    color: #4cbbb9;
+}
+
+/* testimonials */
+#testimonials {
+    background-color: #4cbbb9;
+    text-align: center;
+    color: whitesmoke;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.testimonial-img {
+    width: 15%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+/* press */
+#press {
+    background-color: #4cbbb9;
+    text-align: center;
+    padding-bottom: 3%;
+}
+ 
+.press-logo {
+    width: 15%;
+    margin: 2% 5%;
+}
+
+
+
+
+
+#about {
+    margin: 10%;
+}
+
+
+
+
+
+/* Call To Action */
+
+#cta {
+    background-color: #4cbbb9;
+    text-align: center;
+    color: whitesmoke;
+    padding: 13% 0 5% 0;
+}
+
+/* footer */
+
+#footer {
+    font-family: 'Montserrat-lighter', sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+    margin: 0;
+}
+
+.links {
+    margin: 5% 0 2% 0;
+}
+
+.footer-link {
+    color: black;
+    font-size: 2.5rem;
+    margin: 2% 2%;
+}
+
+.footer-link:hover {
+    color: #4cbbb9;
+}
